@@ -6,3 +6,10 @@ Privacy and security are of utmost importance to us. Our app provides robust pri
 Additionally, our app offers real-time notifications, keeping users updated on the latest activities and interactions within their network. Users can like, comment, and share posts, fostering a sense of engagement and interaction within the community.
 Whether users are seeking inspiration, looking to connect with others who share similar interests, or simply want to stay connected with their loved ones, our social media app provides a versatile platform that caters to a wide range of needs.
 Join us on our social media app and embark on a journey of self-expression, connection, and discovery. Let's connect the world, one post at a time!
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
