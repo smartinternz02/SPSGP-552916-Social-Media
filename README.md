@@ -42,5 +42,5 @@ Join us on our social media app and embark on a journey of self-expression, conn
 
 ## Technologies
 
-  Frontend: Angular, HTML, CSS, TypeScript
-  Backend: Node.js, Express.js, MongoDB
+  1. Frontend: Angular, HTML, CSS, TypeScript
+  2. Backend: Node.js, Express.js, MongoDB
