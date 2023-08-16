@@ -13,3 +13,12 @@ Join us on our social media app and embark on a journey of self-expression, conn
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
+
+## Features
+
+- Quick Login
+- Customizable Profile
+- Content sharing
+- Follow or send friend requests
+- Messaging
+- Notification
