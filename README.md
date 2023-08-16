@@ -22,3 +22,10 @@ Join us on our social media app and embark on a journey of self-expression, conn
 - Follow or send friend requests
 - Messaging
 - Notification
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yogeshchennuri/Social-Media-App
