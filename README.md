@@ -29,3 +29,18 @@ Join us on our social media app and embark on a journey of self-expression, conn
 
    ```bash
    git clone https://github.com/yogeshchennuri/Social-Media-App
+
+## Usage
+
+  1. Register as a user or log in if you already have an account.
+  2. Share the posts.
+  3. Like, comment and share the posts.
+  4. Add story.
+  5. Follow your friends.
+  6. Sending messages to your friends
+  7. Finally Logout.
+
+## Technologies
+
+  Frontend: Angular, HTML, CSS, TypeScript
+  Backend: Node.js, Express.js, MongoDB
